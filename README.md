@@ -1,5 +1,5 @@
 # mini-command-line-interpreter
-University OOP project: a compact C++ CLI interpreter. Small and testable components, easy to add new commands.
+University OOP project: a compact C++ Command-line interpreter. Small and testable components, easy to add new commands.
 
 
 ## Features
